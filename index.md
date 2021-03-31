@@ -1,37 +1,13 @@
-## Welcome to GitHub Pages
+*分享我对敏捷的一些看法*
 
-You can use the [editor on GitHub](https://github.com/ivanweng2077/Agile/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+敏捷（项目管理的最小框架）-看板方法
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+https://mp.weixin.qq.com/s?__biz=MzI1MjQ3NzE2Mw==&mid=2247484050&idx=3&sn=78d25561691ae99e38b9a61b452bbab2&chksm=e9e26916de95e000960fa61f18456b6aaef0b59819581fa2792ae580dfcad7ce2b72e6a83cf0&scene=21#wechat_redirect
 
-```markdown
-Syntax highlighted code block
+看板方法入门的一些方法
+https://mp.weixin.qq.com/s?__biz=MzI1MjQ3NzE2Mw==&mid=2247483863&idx=1&sn=6713cb4ec51de48757c4bd0998efaf24&chksm=e9e26a53de95e345fdfbce271da3f862a95b949163f13c78dc1d6dc82ec6c04ba8448488ca4c&scene=21#wechat_redirect
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ivanweng2077/Agile/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+想要提升个人和团队效能？想要了解敏捷，看板方法？可以在微信读书搜索“猎豹行动: 硝烟中的敏捷转型之旅”
+![image](https://user-images.githubusercontent.com/34189061/113078359-85126880-9205-11eb-9a28-8ad76d10f57b.png)
